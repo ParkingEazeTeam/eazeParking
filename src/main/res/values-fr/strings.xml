@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Système de réservation de stationnement en temps réel</string>
+    <string name="title_activity_login_screen_navigation">LoginScreenNavigation</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+
+    <string name="action_settings">
+
+Paramètres</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="duration">Durée</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="yyyy">YYYY</string>
+    <string name="hrs">hrs</string>
+    <string name="slot4">Fente4</string>
+    <string name="dd">dd</string>
+    <string name="start_time">Heure de début</string>
+    <string name="show_available_slots">Afficher les créneaux disponibles</string>
+    <string name="slot3">Fente3</string>
+    <string name="slot6">Fente6</string>
+    <string name="h">-</string>
+    <string name="mm">mm</string>
+    <string name="slot1">Fente1</string>
+    <string name="slot5">Fente5</string>
+    <string name="h1">-</string>
+    <string name="slot2">Fente2</string>
+    <string name="login_to_parking_app">Connexion à l\'application de stationnement</string>
+    <string name="username_or_email_address">nom d\'utilisateur ou adresse e-mail</string>
+    <string name="enter_your_email_address">Entrez votre adresse email</string>
+    <string name="enter_your_password">Tapez votre mot de passe</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="submit">Soumettre</string>
+    <string name="password">Mot de passe</string>
+    <string name="feeback">Retour d\'information</string>
+    <string name="type_your_feedback">Tapez vos commentaires</string>
+    <string name="send">Envoyer</string>
+    <string name="replies_from_admin">Réponses de l\'administrateu:</string>
+    <string name="location">Emplacement:</string>
+    <string name="slot_number">Numéro d\'emplacement:</string>
+    <string name="start_date">Date de début:</string>
+    <string name="end_date">Date de fin:</string>
+    <string name="delete_booking">Supprimer la réservation</string>
+    <string-array name="time">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+    <string-array name="min">
+        <item>00</item>
+        <item>15</item>
+        <item>30</item>
+        <item>45</item>
+    </string-array>
+    <string-array name="durationhrs">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
